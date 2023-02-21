@@ -1,12 +1,7 @@
 # Jobster API
 
-#### Starter
-
-The starter is a copy of jobs-api final project, just with additional data.
-
 #### Setup
-
-- navigate to 06.5-jobster-api/starter
+- navigate to project folder
 - install dependencies
 
 ```sh
@@ -14,7 +9,6 @@ npm install
 ```
 
 - create .env and provide correct values
-- you can copy from previous project (just change the DB name)
 
 .env
 
